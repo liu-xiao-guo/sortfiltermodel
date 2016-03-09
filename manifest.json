@@ -1,0 +1,17 @@
+{
+    "name": "sortfiltermodel.liu-xiao-guo",
+    "description": "description of sortfiltermodel",
+    "architecture": "all",
+    "title": "sortfiltermodel",
+    "hooks": {
+        "sortfiltermodel": {
+            "apparmor": "sortfiltermodel.apparmor",
+            "desktop":  "sortfiltermodel.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

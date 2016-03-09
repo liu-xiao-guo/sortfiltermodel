@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=sortfiltermodel
+Exec=qmlscene $@ Main.qml
+Icon=sortfiltermodel.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
